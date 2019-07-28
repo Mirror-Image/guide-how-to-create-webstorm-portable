@@ -75,7 +75,7 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 
 > Нажимаем правой кнопкой миши по пустой области в проводнике выбираем пункт 'Cоздать' и 'Ярлык'
 
-![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/6-1.JPG)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/6.JPG)
 
 * В открывшемся диалоговом окне, в строке 'Укажите расположение объекта' вводим:
 
