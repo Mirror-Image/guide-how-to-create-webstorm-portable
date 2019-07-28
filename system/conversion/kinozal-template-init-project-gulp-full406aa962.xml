@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Xata\Desktop\FrontEnd\3. Work\kinozal-template-init-project-gulp-full\.idea\inspectionProfiles\Project_Default.xml" timestamp="1564131950325" />
+    <file path="C:\Users\Xata\Desktop\FrontEnd\3. Work\kinozal-template-init-project-gulp-full\.idea\jsLinters\jshint.xml" timestamp="1564131950402" />
+    <file path="C:\Users\Xata\Desktop\FrontEnd\3. Work\kinozal-template-init-project-gulp-full\.idea\kinozal-template-init-project-gulp-full.iml" timestamp="1564131950370" />
+    <file path="C:\Users\Xata\Desktop\FrontEnd\3. Work\kinozal-template-init-project-gulp-full\.idea\misc.xml" timestamp="1564131950383" />
+    <file path="C:\Users\Xata\Desktop\FrontEnd\3. Work\kinozal-template-init-project-gulp-full\.idea\modules.xml" timestamp="1564131950391" />
+    <file path="C:\Users\Xata\Desktop\FrontEnd\3. Work\kinozal-template-init-project-gulp-full\.idea\workspace.xml" timestamp="1564228148997" />
+  </project-files>
+</conversion>
+

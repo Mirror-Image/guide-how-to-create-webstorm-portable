@@ -1,0 +1,28 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="112-200-233-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.64021164" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="SettingsSearchHistory" value="Tab,Indent&#10;font" />
+    <property name="WebStorm.disableSafeWrite" value="true" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt.191" value="16c35556fd3" />
+    <property name="evlsprt2.191" value="16c2d7ae1c3" />
+    <property name="evlsprt3.191" value="16" />
+    <property name="evlsprt3.192" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/FrontEnd/3. Work/kinozal-template-init-project-gulp-full&#10;C:/Users/Xata/Desktop/FrontEnd/3. Work/grid-template-init-project-gulp-tm-scss&#10;C:/Program Files/Git/bin/git.exe" />
+    <property name="file.gist.reindex.count" value="1549" />
+    <property name="fileTypeChangedCounter" value="17" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.5.2" />
+  </component>
+</application>

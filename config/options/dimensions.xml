@@ -1,0 +1,21 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1680.1050" x="762" y="492" />
+    <location key="WELCOME_SCREEN.0.0.1680.1050" x="730" y="406" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1680.1050" x="294" y="158" />
+    <location key="SettingsEditor.0.0.1680.1050" x="393" y="207" />
+    <location key="#Notifications.0.0.1680.1050" x="432" y="162" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1680.0.1920.1080" x="2508" y="167" />
+    <location key="Github.ShareDialog.0.0.1680.1050" x="619" y="578" />
+    <location key="Github.UntrackedFilesDialog.0.0.1680.1050" x="534" y="189" />
+    <location key="ProcessPopupWindow.0.0.1680.1050" x="1258" y="886" />
+    <location key="CommitChangelistDialog2.0.0.1680.1050" x="518" y="103" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1680.1050" x="446" y="723" />
+    <location key="Vcs.Push.Dialog.0.0.1680.1050" x="516" y="195" />
+    <location key="WELCOME_SCREEN.0.0.3840.2160@144dpi" x="1923" y="834" />
+    <location key="FileChooserDialogImpl.0.0.3840.2160@144dpi" x="1595" y="467" />
+    <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.3840.0.1680.1050" x="4360" y="232" />
+    <size key="SettingsEditor.0.0.1680.1050" width="1172" height="740" />
+    <size key="ProcessPopupWindow.0.0.1680.1050" width="400" height="132" />
+  </component>
+</application>

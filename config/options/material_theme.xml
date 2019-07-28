@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="treeFontSize" value="14" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="70c8e9" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="-74a8b9cd:16b9ad6b8fa:-8000" />
+    <option name="version" value="4.2" />
+  </component>
+</application>
