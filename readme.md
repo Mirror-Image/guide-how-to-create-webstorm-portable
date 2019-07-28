@@ -65,7 +65,7 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 
 # 5. Запуск WebStorm с флешки
 
-* Чтобы запустить WebStorm нужно запустить файл **webstorm64.exe**, либо **webstorm.exe** (если у вас установлена 32-битая ОС), которые находятся в папке **bin**:
+* Чтобы запустить WebStorm нужно запустить файл **webstorm64.exe**, либо **webstorm.exe** (если у вас установлена 32-битная ОС), которые находятся в папке **bin**:
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/5.JPG)
 
