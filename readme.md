@@ -3,8 +3,9 @@
 https://www.jetbrains.com/webstorm/download
 
 # 2. Распакуйте дистрибутив при помощи архиватора 7zip
-
+```
 https://www.7-zip.org/
+```
 
 ![Screenshot](img/123.JPG)
 
