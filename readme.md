@@ -6,7 +6,7 @@ https://www.jetbrains.com/webstorm/download
 
 https://www.7-zip.org/
 
-![Screenshot](img/0q.JPG)
+![Screenshot](img/0q.JPG?raw=true)
 
 # 3. Заходим в полученную папку с программой
 
