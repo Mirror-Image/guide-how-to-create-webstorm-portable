@@ -15,9 +15,11 @@ https://www.7-zip.org/
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/0.JPG)
 
-*  Откройте файл конфигурации **idea.properties** с помощью Notepad и измените пути хранения настроек cо стандартных:
+*  Перейдите в папку **bin** и найдите там файл конфигурации **idea.properties**.
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/01.JPG)
+
+* Откройте его с помощью Notepad и измените пути хранения настроек cо стандартных:
 
 ```
 # idea.config.path=${user.home}/.WebStorm/config
