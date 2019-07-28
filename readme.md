@@ -97,7 +97,7 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/7-1.JPG)
 
-* Нажимаем 'Готово' и у нас теперь появился ярлык для запуска WebStorm. Но это еще не все. Теперь заходим с 'Свойства' нашего ярлыка и содержимое поля 'Рабочая папка':
+* Нажимаем 'Готово' и у нас теперь появился ярлык для запуска WebStorm. Но это еще не все. Теперь заходим в 'Свойства' нашего ярлыка и удаляем содержимое поля 'Рабочая папка':
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/8.JPG)
 
