@@ -75,7 +75,7 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 
 * Заходим в проводнике Windows в то место, где мы хотим создать наш ярлык и вызываем мастер создания ярлыков
 
-> Нажимаем правой кнопкой миши по пустой области в проводнике выбираем пункт 'Cоздать' и 'Ярлык'
+> Нажимаем правой кнопкой миши по пустой области в проводнике и выбираем пункт 'Cоздать' и 'Ярлык'
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/6.JPG)
 
