@@ -91,9 +91,11 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 
 > %windir%\system32\cmd.exe /C start /B /D .\\\*путь до папки с программой* .\\\*путь до папки с программой*\\\*название файла.exe*
 
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/7.JPG)
+
 * Нажимаем 'Далее' и даем имя ярлыку (любое, на ваше усмотрение):
 
-![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/7.JPG)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/7-1.JPG)
 
 * Нажимаем 'Готово' и у нас теперь появился ярлык для запуска WebStorm. Но это еще не все. Теперь заходим с 'Свойства' нашего ярлыка и содержимое поля 'Рабочая папка':
 
