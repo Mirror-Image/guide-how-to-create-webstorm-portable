@@ -1,4 +1,4 @@
-# 1. Скачать последнюю версию WebStorm
+# 1. Скачайте последнюю версию WebStorm
 
 https://www.jetbrains.com/webstorm/download
 
@@ -11,9 +11,13 @@ https://www.7-zip.org/
 
 * Удалите папку **./$PLUGINDIR**
 
-> она бесполезна
+> эта папка бесполезна
 
-*  Откройте файл конфигурации **./bin/idea.properties** с помощью Notepad и измените пути хранения настроек cо стандартных:
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/0.JPG)
+
+*  Откройте файл конфигурации **idea.properties** с помощью Notepad и измените пути хранения настроек cо стандартных:
+
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/01.JPG)
 
 ```
 # idea.config.path=${user.home}/.WebStorm/config
@@ -21,7 +25,7 @@ https://www.7-zip.org/
 # idea.system.path=${user.home}/.WebStorm/system
 ```
 
-![Screenshot](img/1.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/1.JPG)
 
 на слудующие:
 
@@ -32,7 +36,7 @@ idea.system.path=${idea.home}/system
 ```
 > не забудьте раскомментировать эти строки (убрать # в начале строки)
 
-![Screenshot](img/2.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/2.JPG)
 
 # 4. Переносим настройки и плагины с ПК версии программы на портативную
 
@@ -44,14 +48,14 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 > <USER ACCOUNT NAME> - имя пользователя ПК
 > .<PRODUCT><VERSION> - папка WebStorm'а с пользовательскими настройками. С каждой новой версией её имя меняется. На момент написания данной инструкции папка именуется как .WebStorm2019.2
 
-![Screenshot](img/3.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/3.JPG)
 
 * Копируем папки **config** и **system** в портативную версиею программы 
 ```
 U:\WebStorm-2019.2
 ```
 
-![Screenshot](img/4.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/4.JPG)
 
 > Теперь все готово для копирования папки с программой на флешку
 
@@ -59,9 +63,9 @@ U:\WebStorm-2019.2
 
 * Чтобы запустить WebStorm нужно запустить файл **webstorm64.exe**, либо **webstorm.exe** (если у вас установлена 32-битая ОС), которые находятся в папке **bin**:
 
-![Screenshot](img/5.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/5.JPG)
 
-# 6. Создаем ярлык для запуска WebStorm в корне флешки для простоты запуска портативной программы
+# 6. Создаем ярлык для запуска WebStorm в корне флешки для простоты запуска портативной версии
 
 > С помощью данного ярлыка вы сможете запускать WebStorm не смотря на то, какое имя диска будет дано вашему флешнакопителю при подключении к ПК
 
@@ -69,7 +73,7 @@ U:\WebStorm-2019.2
 
 > Нажимаем правой кнопкой миши по пустой области в проводнике выбираем пункт 'Cоздать' и 'Ярлык'
 
-![Screenshot](img/6.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/6.JPG)
 
 * В открывшемся диалоговом окне, в строке 'Укажите расположение объекта' вводим:
 
@@ -83,22 +87,22 @@ U:\WebStorm-2019.2
 
 * Нажимаем 'Далее' и даем имя ярлыку (любое, на ваше усмотрение):
 
-![Screenshot](img/7.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/7.JPG)
 
 * Нажимаем 'Готово' и у нас теперь появился ярлык для запуска WebStorm. Но это еще не все. Теперь заходим с 'Свойства' нашего ярлыка и содержимое поля 'Рабочая папка':
 
-![Screenshot](img/8.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/8.JPG)
 
 * Для того, чтобы при запуске не отображалось окно командной строки, в поле 'Окно' выбираем 'Свернутое в значок':
 
-![Screenshot](img/9.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/9.JPG)
 
 * Также здесь можем присвоить пиктограмму WebStorm'а нашему ярлыку:
 
-![Screenshot](img/10.jpg)
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/10.JPG)
 
 # 7. Портативная версия WebStorm готова!
 
-![Screenshot](img/11.jpg) 
+![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/11.JPG)
 
 > Скачав архим с данного репозитория вы можете найти в нем уже отредактированный файл 'idea.properties', готовый ярлык и папки 'config' и 'system' с моими конфигурациями и натройками WebStorm'а
