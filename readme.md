@@ -9,7 +9,7 @@ https://www.7-zip.org/
 
 # 3. Заходим в полученную папку с программой
 
-* Удалите папку **./$PLUGINDIR**
+* Удалите папку **$PLUGINSDIR**
 
 > эта папка бесполезна
 
@@ -27,7 +27,7 @@ https://www.7-zip.org/
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/1.JPG)
 
-на слудующие:
+на следующие:
 
 ```
 idea.config.path=${idea.home}/config
@@ -49,20 +49,19 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 
 > \<USER ACCOUNT NAME\> - имя пользователя ПК
 
-> .\<PRODUCT\>\<VERSION\> - папка WebStorm'а с пользовательскими настройками. С каждой новой версией её имя меняется. На момент написания данной инструкции папка именуется как .WebStorm2019.2
+> .\<PRODUCT\>\<VERSION\> - папка WebStorm'а с пользовательскими настройками. С каждой новой версией её имя меняется. На текущий момент папка именуется как .WebStorm2019.2
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/3.JPG)
 
-* Копируем папки **config** и **system** в портативную версиею программы 
-```
-U:\WebStorm-2019.2
-```
+* Копируем папки **config** и **system** в портативную версию программы
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/4.JPG)
 
 > Теперь все готово для копирования папки с программой на флешку
 
-# 5. Копируем папку с программой на флешку
+* Копируем папку с программой на флешку
+
+# 5. Запуск WebStorm с флешки
 
 * Чтобы запустить WebStorm нужно запустить файл **webstorm64.exe**, либо **webstorm.exe** (если у вас установлена 32-битая ОС), которые находятся в папке **bin**:
 
