@@ -55,7 +55,7 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/3.JPG)
 
-* Копируем папки **config** и **system** в портативную версию программы
+* Копируем папки **config** и **system** в корень папки портативной версии программы
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/4.JPG)
 
