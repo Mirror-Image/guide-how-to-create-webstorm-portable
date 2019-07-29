@@ -114,6 +114,6 @@ C:\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>
 
 ![Screenshot](https://github.com/MaksimBorovik/Guide-How-to-create-WebStorm-Portable/blob/master/img/11.JPG)
 
-> Скачав архив с данного репозитория вы можете найти в нем уже отредактированный файл **idea.properties**, готовый ярлык и папки **config** и **system** с моими конфигурациями и натройками WebStorm'а
+> Скачав архив с данного репозитория вы можете найти в нем уже отредактированный файл **idea.properties**, готовый ярлык и папки **config** и **system** с моими конфигурациями и настройками WebStorm'а
 
 > **Enjoy!**
